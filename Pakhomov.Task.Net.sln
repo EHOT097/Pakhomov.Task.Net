@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pakhomov.Task.Net", "Pakhomov.Task.Net\Pakhomov.Task.Net.csproj", "{BFF02B53-8AA6-469C-AE16-69BFB04CAA0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFF02B53-8AA6-469C-AE16-69BFB04CAA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF02B53-8AA6-469C-AE16-69BFB04CAA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF02B53-8AA6-469C-AE16-69BFB04CAA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF02B53-8AA6-469C-AE16-69BFB04CAA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC61BD9-4275-4A28-9CA2-2460B2EEA1BD}
+	EndGlobalSection
+EndGlobal
